@@ -1,0 +1,8 @@
+List of things we need to address:
+
+How to actually implement groupings returned by max-cut in a college campus environment
+
+Compare to existing classical max-cut (such as Trevisan's algorithm)
+
+Look at k-coloring instead of recursive max-cut
+
